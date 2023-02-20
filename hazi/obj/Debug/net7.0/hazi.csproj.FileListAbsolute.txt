@@ -1,0 +1,15 @@
+C:\Users\Blackhood\Desktop\hazi\obj\Debug\net7.0\hazi.csproj.AssemblyReference.cache
+C:\Users\Blackhood\Desktop\hazi\obj\Debug\net7.0\hazi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blackhood\Desktop\hazi\obj\Debug\net7.0\hazi.AssemblyInfoInputs.cache
+C:\Users\Blackhood\Desktop\hazi\obj\Debug\net7.0\hazi.AssemblyInfo.cs
+C:\Users\Blackhood\Desktop\hazi\obj\Debug\net7.0\hazi.csproj.CoreCompileInputs.cache
+C:\Users\Blackhood\Desktop\hazi\bin\Debug\net7.0\hazi.exe
+C:\Users\Blackhood\Desktop\hazi\bin\Debug\net7.0\hazi.deps.json
+C:\Users\Blackhood\Desktop\hazi\bin\Debug\net7.0\hazi.runtimeconfig.json
+C:\Users\Blackhood\Desktop\hazi\bin\Debug\net7.0\hazi.dll
+C:\Users\Blackhood\Desktop\hazi\bin\Debug\net7.0\hazi.pdb
+C:\Users\Blackhood\Desktop\hazi\obj\Debug\net7.0\hazi.dll
+C:\Users\Blackhood\Desktop\hazi\obj\Debug\net7.0\refint\hazi.dll
+C:\Users\Blackhood\Desktop\hazi\obj\Debug\net7.0\hazi.pdb
+C:\Users\Blackhood\Desktop\hazi\obj\Debug\net7.0\hazi.genruntimeconfig.cache
+C:\Users\Blackhood\Desktop\hazi\obj\Debug\net7.0\ref\hazi.dll
