@@ -1,0 +1,100 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Oszatalyok_02
+{
+    class autok
+    {
+        public string gyartmany;
+        public string tipus;
+        public string szin;
+        public string rendszam;
+        public bool forgalomban;
+        public int uzemanyagTartalyKapacitas;
+
+        public autok(string gyartmany,string tipus,string szin,string rendszam,bool forgalomban,int uzemanyagTartalyKapacitas)
+        {
+            this.gyartmany = gyartmany;
+            this.tipus = tipus;
+            this.szin = szin;
+            this.rendszam = rendszam;
+            this.forgalomban = forgalomban;
+            this.uzemanyagTartalyKapacitas = uzemanyagTartalyKapacitas;
+        }
+
+        public autok()
+        {
+
+        }
+
+        ~autok()
+        {
+            Console.WriteLine("A Destruktor tette a dolgát...");
+        }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            autok auto3 = new autok("Opel","Astra","Zöld","ABC-123",true,40);
+            Console.WriteLine("Gyártmány: " +auto3.gyartmany);
+            Console.WriteLine("Típus: "+auto3.tipus);
+            Console.WriteLine("Szín: "+auto3.szin);
+            Console.WriteLine("Rendszám: "+auto3.rendszam);
+            Console.WriteLine("Forgalomban: "+auto3.forgalomban);
+            Console.WriteLine("Üat. kapacitás: "+auto3.uzemanyagTartalyKapacitas);
+            for (int i = 0; i < 5; i++)
+            {
+                autok auto_tmp = new autok();
+            }
+            GC.Collect();
+            
+            /*autok auto1 = new autok();
+            auto1.gyartmany = "Audi";
+            auto1.tipus = "A6";
+            auto1.rendszam = "SSD-540";
+            auto1.szin = "Fekete";
+            auto1.forgalomban = true;
+            auto1.uzemanyagTartalyKapacitas = 60;
+            Console.WriteLine("Gyártmány: {0}", auto1.gyartmany);
+            Console.WriteLine(auto1.tipus);
+            Console.WriteLine(auto1.rendszam);
+            Console.WriteLine(auto1.szin);
+            Console.WriteLine(auto1.forgalomban ? "Igen" : "Nem");
+            Console.WriteLine(auto1.uzemanyagTartalyKapacitas);
+            autok auto2 = new autok();
+            //auto2 = auto1;
+            Console.WriteLine("Gyártmány: {0}", auto2.gyartmany);
+            Console.WriteLine(auto2.tipus);
+            Console.WriteLine(auto2.rendszam);
+            Console.WriteLine(auto2.szin);
+            Console.WriteLine(auto2.forgalomban);
+            Console.WriteLine(auto2.uzemanyagTartalyKapacitas);
+            auto2.gyartmany = "Opel";
+            auto2.tipus = "Astra";
+            auto2.rendszam = "HHH-123";
+            auto2.szin = "Piros";
+            auto2.forgalomban = false;
+            auto2.uzemanyagTartalyKapacitas = 40;
+            Console.WriteLine("Gyártmány: {0}", auto2.gyartmany);
+            Console.WriteLine(auto2.tipus);
+            Console.WriteLine(auto2.rendszam);
+            Console.WriteLine(auto2.szin);
+            Console.WriteLine(auto2.forgalomban ? "Igen" : "Nem");
+            Console.WriteLine(auto2.uzemanyagTartalyKapacitas);
+            Console.WriteLine("Gyártmány: {0}", auto1.gyartmany);
+            Console.WriteLine(auto1.tipus);
+            Console.WriteLine(auto1.rendszam);
+            Console.WriteLine(auto1.szin);
+            Console.WriteLine(auto1.forgalomban);
+            Console.WriteLine(auto1.uzemanyagTartalyKapacitas);*/
+
+
+            Console.ReadKey();
+        }
+    }
+}
