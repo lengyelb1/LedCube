@@ -1,27 +1,15 @@
 var adatok=[
     {
-        "Vármegye": "",
-        "Székhely": "",
-        "Országrész": "",
-        "Régió": "",
-        "Járás": "",
-        "Település": "össz.",
-        "": "város",
-        "Népesség": "",
-        "Terület": "",
-        "Nép-": "sűrűség"
-    },
-    {
         "Vármegye": "Bács-Kiskun",
         "Székhely": "Kecskemét",
         "Országrész": "AF",
         "Régió": "DA",
         "Járás": "11",
         "Település": "119",
-        "": "22",
-        "Népesség": "503 825",
-        "Terület": "8 443",
-        "Nép-": "59"
+        "Népesség": "22",
+        "Terület": "503 825",
+        "Népsűrűség": "8 443",
+        kijelolt:false
     },
     {
         "Vármegye": "Baranya",
@@ -30,10 +18,10 @@ var adatok=[
         "Régió": "DD",
         "Járás": "10",
         "Település": "301",
-        "": "14",
-        "Népesség": "360 704",
-        "Terület": "4 430",
-        "Nép-": "81"
+        "Népesség": "14",
+        "Terület": "360 704",
+        "Népsűrűség": "4 430",
+        kijelolt:false
     },
     {
         "Vármegye": "Békés",
@@ -42,10 +30,10 @@ var adatok=[
         "Régió": "DA",
         "Járás": "9",
         "Település": "75",
-        "": "22",
-        "Népesség": "334 264",
-        "Terület": "5 630",
-        "Nép-": "59"
+        "Népesség": "22",
+        "Terület": "334 264",
+        "Népsűrűség": "5 630",
+        kijelolt:false
     },
     {
         "Vármegye": "Borsod-Abaúj-Zemplén",
@@ -54,10 +42,10 @@ var adatok=[
         "Régió": "ÉM",
         "Járás": "16",
         "Település": "358",
-        "": "29",
-        "Népesség": "642 447",
-        "Terület": "7 247",
-        "Nép-": "88"
+        "Népesség": "29",
+        "Terület": "642 447",
+        "Népsűrűség": "7 247",
+        kijelolt:false
     },
     {
         "Vármegye": "Csongrád-Csanád",
@@ -66,10 +54,10 @@ var adatok=[
         "Régió": "DA",
         "Járás": "7",
         "Település": "60",
-        "": "10",
-        "Népesség": "399 012",
-        "Terület": "4 262",
-        "Nép-": "93"
+        "Népesség": "10",
+        "Terület": "399 012",
+        "Népsűrűség": "4 262",
+        kijelolt:false
     },
     {
         "Vármegye": "Fejér",
@@ -78,10 +66,10 @@ var adatok=[
         "Régió": "KD",
         "Járás": "8",
         "Település": "108",
-        "": "17",
-        "Népesség": "417 712",
-        "Terület": "4 358",
-        "Nép-": "95"
+        "Népesség": "17",
+        "Terület": "417 712",
+        "Népsűrűség": "4 358",
+        kijelolt:false
     },
     {
         "Vármegye": "Győr-Moson-Sopron",
@@ -90,10 +78,10 @@ var adatok=[
         "Régió": "NyD",
         "Járás": "7",
         "Település": "183",
-        "": "12",
-        "Népesség": "467 144",
-        "Terület": "4 208",
-        "Nép-": "111"
+        "Népesség": "12",
+        "Terület": "467 144",
+        "Népsűrűség": "4 208",
+        kijelolt:false
     },
     {
         "Vármegye": "Hajdú-Bihar",
@@ -102,10 +90,10 @@ var adatok=[
         "Régió": "ÉA",
         "Járás": "10",
         "Település": "82",
-        "": "21",
-        "Népesség": "527 989",
-        "Terület": "6 209",
-        "Nép-": "85"
+        "Népesség": "21",
+        "Terület": "527 989",
+        "Népsűrűség": "6 209",
+        kijelolt:false
     },
     {
         "Vármegye": "Heves",
@@ -114,10 +102,10 @@ var adatok=[
         "Régió": "ÉM",
         "Járás": "7",
         "Település": "121",
-        "": "11",
-        "Népesség": "294 609",
-        "Terület": "3 637",
-        "Nép-": "81"
+        "Népesség": "11",
+        "Terület": "294 609",
+        "Népsűrűség": "3 637",
+        kijelolt:false
     },
     {
         "Vármegye": "Jász-Nagykun-Szolnok",
@@ -126,10 +114,10 @@ var adatok=[
         "Régió": "ÉA",
         "Járás": "9",
         "Település": "78",
-        "": "22",
-        "Népesség": "370 007",
-        "Terület": "5 581",
-        "Nép-": "66"
+        "Népesség": "22",
+        "Terület": "370 007",
+        "Népsűrűség": "5 581",
+        kijelolt:false
     },
     {
         "Vármegye": "Komárom-Esztergom",
@@ -138,10 +126,10 @@ var adatok=[
         "Régió": "KD",
         "Járás": "6",
         "Település": "76",
-        "": "12",
-        "Népesség": "299 207",
-        "Terület": "2 264",
-        "Nép-": "132"
+        "Népesség": "12",
+        "Terület": "299 207",
+        "Népsűrűség": "2 264",
+        kijelolt:false
     },
     {
         "Vármegye": "Nógrád",
@@ -150,10 +138,10 @@ var adatok=[
         "Régió": "ÉM",
         "Járás": "6",
         "Település": "131",
-        "": "6",
-        "Népesség": "189 304",
-        "Terület": "2 544",
-        "Nép-": "74"
+        "Népesség": "6",
+        "Terület": "189 304",
+        "Népsűrűség": "2 544",
+        kijelolt:false
     },
     {
         "Vármegye": "Pest",
@@ -162,10 +150,10 @@ var adatok=[
         "Régió": "PE",
         "Járás": "18",
         "Település": "187",
-        "": "52",
-        "Népesség": "1 278 874",
-        "Terület": "6 390",
-        "Nép-": "200"
+        "Népesség": "52",
+        "Terület": "1 278 874",
+        "Népsűrűség": "6 390",
+        kijelolt:false
     },
     {
         "Vármegye": "Somogy",
@@ -174,10 +162,10 @@ var adatok=[
         "Régió": "DD",
         "Járás": "8",
         "Település": "246",
-        "": "16",
-        "Népesség": "301 429",
-        "Terület": "6 065",
-        "Nép-": "49"
+        "Népesség": "16",
+        "Terület": "301 429",
+        "Népsűrűség": "6 065",
+        kijelolt:false
     },
     {
         "Vármegye": "Szabolcs-Szatmár-Bereg",
@@ -186,10 +174,10 @@ var adatok=[
         "Régió": "ÉA",
         "Járás": "13",
         "Település": "229",
-        "": "29",
-        "Népesség": "552 964",
-        "Terület": "5 933",
-        "Nép-": "93"
+        "Népesség": "29",
+        "Terület": "552 964",
+        "Népsűrűség": "5 933",
+        kijelolt:false
     },
     {
         "Vármegye": "Tolna",
@@ -198,10 +186,10 @@ var adatok=[
         "Régió": "DD",
         "Járás": "6",
         "Település": "109",
-        "": "11",
-        "Népesség": "217 463",
-        "Terület": "3 703",
-        "Nép-": "58"
+        "Népesség": "11",
+        "Terület": "217 463",
+        "Népsűrűség": "3 703",
+        kijelolt:false
     },
     {
         "Vármegye": "Vas",
@@ -210,10 +198,10 @@ var adatok=[
         "Régió": "NyD",
         "Járás": "7",
         "Település": "216",
-        "": "13",
-        "Népesség": "253 551",
-        "Terület": "3 336",
-        "Nép-": "76"
+        "Népesség": "13",
+        "Terület": "253 551",
+        "Népsűrűség": "3 336",
+        kijelolt:false
     },
     {
         "Vármegye": "Veszprém",
@@ -222,10 +210,10 @@ var adatok=[
         "Régió": "KD",
         "Járás": "10",
         "Település": "217",
-        "": "15",
-        "Népesség": "341 317",
-        "Terület": "4 463",
-        "Nép-": "76"
+        "Népesség": "15",
+        "Terület": "341 317",
+        "Népsűrűség": "4 463",
+        kijelolt:false
     },
     {
         "Vármegye": "Zala",
@@ -234,10 +222,10 @@ var adatok=[
         "Régió": "NyD",
         "Járás": "6",
         "Település": "258",
-        "": "10",
-        "Népesség": "268 648",
-        "Terület": "3 784",
-        "Nép-": "71"
+        "Népesség": "10",
+        "Terület": "268 648",
+        "Népsűrűség": "3 784",
+        kijelolt:false
     },
     {
         "Vármegye": "Budapest (főváros)",
@@ -246,9 +234,32 @@ var adatok=[
         "Régió": "BU",
         "Járás": "23",
         "Település": "23",
-        "": "–",
-        "Népesség": "1 752 286",
-        "Terület": "525",
-        "Nép-": "3 337"
+        "Népesség": "–",
+        "Terület": "1 752 286",
+        "Népsűrűség": "525",
+        kijelolt:false
     }
 ]
+
+function kijelol(megyetag) {
+    var megye=adatok.find(x=>x["Vármegye"]==megyetag.id)
+    
+    megye.kijelolt=!megye.kijelolt;
+    console.log(megye)
+    frissit()
+}
+
+function frissit() {
+    for (var megye of adatok) {
+        if (megye.kijelolt) {
+            document.getElementById(megye["Vármegye"]).style.fill="#3379a1"
+        }
+        else{
+            document.getElementById(megye["Vármegye"]).style.fill="#32c9ab"
+        }
+    }
+}
+
+function megyeadatok() {
+    
+}
