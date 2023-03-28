@@ -7,8 +7,8 @@ var adatok=[
         "Járás": "11",
         "Település": "119",
         "Népesség": "22",
-        "Terület": "503 825",
-        "Népsűrűség": "8 443",
+        "Terület": "503825",
+        "Népsűrűség": "8443",
         kijelolt:false
     },
     {
@@ -19,8 +19,8 @@ var adatok=[
         "Járás": "10",
         "Település": "301",
         "Népesség": "14",
-        "Terület": "360 704",
-        "Népsűrűség": "4 430",
+        "Terület": "360704",
+        "Népsűrűség": "4430",
         kijelolt:false
     },
     {
@@ -31,8 +31,8 @@ var adatok=[
         "Járás": "9",
         "Település": "75",
         "Népesség": "22",
-        "Terület": "334 264",
-        "Népsűrűség": "5 630",
+        "Terület": "334264",
+        "Népsűrűség": "5630",
         kijelolt:false
     },
     {
@@ -43,8 +43,8 @@ var adatok=[
         "Járás": "16",
         "Település": "358",
         "Népesség": "29",
-        "Terület": "642 447",
-        "Népsűrűség": "7 247",
+        "Terület": "642447",
+        "Népsűrűség": "7247",
         kijelolt:false
     },
     {
@@ -55,8 +55,8 @@ var adatok=[
         "Járás": "7",
         "Település": "60",
         "Népesség": "10",
-        "Terület": "399 012",
-        "Népsűrűség": "4 262",
+        "Terület": "399012",
+        "Népsűrűség": "4262",
         kijelolt:false
     },
     {
@@ -67,8 +67,8 @@ var adatok=[
         "Járás": "8",
         "Település": "108",
         "Népesség": "17",
-        "Terület": "417 712",
-        "Népsűrűség": "4 358",
+        "Terület": "417712",
+        "Népsűrűség": "4358",
         kijelolt:false
     },
     {
@@ -79,8 +79,8 @@ var adatok=[
         "Járás": "7",
         "Település": "183",
         "Népesség": "12",
-        "Terület": "467 144",
-        "Népsűrűség": "4 208",
+        "Terület": "467144",
+        "Népsűrűség": "4208",
         kijelolt:false
     },
     {
@@ -91,8 +91,8 @@ var adatok=[
         "Járás": "10",
         "Település": "82",
         "Népesség": "21",
-        "Terület": "527 989",
-        "Népsűrűség": "6 209",
+        "Terület": "527989",
+        "Népsűrűség": "6209",
         kijelolt:false
     },
     {
@@ -103,8 +103,8 @@ var adatok=[
         "Járás": "7",
         "Település": "121",
         "Népesség": "11",
-        "Terület": "294 609",
-        "Népsűrűség": "3 637",
+        "Terület": "294609",
+        "Népsűrűség": "3637",
         kijelolt:false
     },
     {
@@ -115,8 +115,8 @@ var adatok=[
         "Járás": "9",
         "Település": "78",
         "Népesség": "22",
-        "Terület": "370 007",
-        "Népsűrűség": "5 581",
+        "Terület": "370007",
+        "Népsűrűség": "5581",
         kijelolt:false
     },
     {
@@ -127,8 +127,8 @@ var adatok=[
         "Járás": "6",
         "Település": "76",
         "Népesség": "12",
-        "Terület": "299 207",
-        "Népsűrűség": "2 264",
+        "Terület": "299207",
+        "Népsűrűség": "2264",
         kijelolt:false
     },
     {
@@ -139,8 +139,8 @@ var adatok=[
         "Járás": "6",
         "Település": "131",
         "Népesség": "6",
-        "Terület": "189 304",
-        "Népsűrűség": "2 544",
+        "Terület": "189304",
+        "Népsűrűség": "2544",
         kijelolt:false
     },
     {
@@ -151,8 +151,8 @@ var adatok=[
         "Járás": "18",
         "Település": "187",
         "Népesség": "52",
-        "Terület": "1 278 874",
-        "Népsűrűség": "6 390",
+        "Terület": "1278874",
+        "Népsűrűség": "6390",
         kijelolt:false
     },
     {
@@ -163,8 +163,8 @@ var adatok=[
         "Járás": "8",
         "Település": "246",
         "Népesség": "16",
-        "Terület": "301 429",
-        "Népsűrűség": "6 065",
+        "Terület": "301429",
+        "Népsűrűség": "6065",
         kijelolt:false
     },
     {
@@ -175,8 +175,8 @@ var adatok=[
         "Járás": "13",
         "Település": "229",
         "Népesség": "29",
-        "Terület": "552 964",
-        "Népsűrűség": "5 933",
+        "Terület": "552964",
+        "Népsűrűség": "5933",
         kijelolt:false
     },
     {
@@ -187,8 +187,8 @@ var adatok=[
         "Járás": "6",
         "Település": "109",
         "Népesség": "11",
-        "Terület": "217 463",
-        "Népsűrűség": "3 703",
+        "Terület": "217463",
+        "Népsűrűség": "3703",
         kijelolt:false
     },
     {
@@ -199,8 +199,8 @@ var adatok=[
         "Járás": "7",
         "Település": "216",
         "Népesség": "13",
-        "Terület": "253 551",
-        "Népsűrűség": "3 336",
+        "Terület": "253551",
+        "Népsűrűség": "3336",
         kijelolt:false
     },
     {
@@ -211,8 +211,8 @@ var adatok=[
         "Járás": "10",
         "Település": "217",
         "Népesség": "15",
-        "Terület": "341 317",
-        "Népsűrűség": "4 463",
+        "Terület": "341317",
+        "Népsűrűség": "4463",
         kijelolt:false
     },
     {
@@ -223,8 +223,8 @@ var adatok=[
         "Járás": "6",
         "Település": "258",
         "Népesség": "10",
-        "Terület": "268 648",
-        "Népsűrűség": "3 784",
+        "Terület": "268648",
+        "Népsűrűség": "3784",
         kijelolt:false
     },
     {
@@ -235,7 +235,7 @@ var adatok=[
         "Járás": "23",
         "Település": "23",
         "Népesség": "–",
-        "Terület": "1 752 286",
+        "Terület": "1752286",
         "Népsűrűség": "525",
         kijelolt:false
     }
@@ -246,7 +246,88 @@ function kijelol(megyetag) {
     
     megye.kijelolt=!megye.kijelolt;
     console.log(megye)
+    megyekosszegzese();
     frissit()
+}
+
+function megyekosszegzese() {
+    var megye=adatok[0]
+    var varmegyekstring="";
+    var telepulesek=0
+    var varosok=0;
+    var nepesseg=0;
+    var terulet=0;
+    for (var megye of adatok) {
+        if (megye.kijelolt) {
+            varmegyekstring+=megye.Vármegye+"<br>";
+            telepulesek+=parseInt(megye.telepulesek)
+            varosok+=parseInt(megye.Járás);
+            terulet+=parseInt(megye.Terület);
+            nepesseg+=parseInt(megye.Népesség);
+        }
+        
+    }
+    console.log(megye)
+    var megyetablastring=
+    `
+    <tr>
+        <td>
+            Vármegye
+        </td>
+        <td>
+            ${varmegyekstring}
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Székhely
+        </td>
+        <td>
+            ${megye.Székhely}
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Település
+        </td>
+        <td>
+            ${telepulesek}
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Városok
+        </td>
+        <td>
+            ${varosok}
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Népesség
+        </td>
+        <td>
+            ${nepesseg}
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Terület
+        </td>
+        <td>
+            ${terulet}
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Népsürüség
+        </td>
+        <td>
+            ${terulet/nepesseg}
+        </td>
+    </tr>
+    `
+    document.getElementById("osszegzotabla").innerHTML=megyetablastring;
 }
 
 function frissit() {
@@ -260,6 +341,6 @@ function frissit() {
     }
 }
 
-function megyeadatok() {
+function megyeadatok(megyetag) {
     
 }
